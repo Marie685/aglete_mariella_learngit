@@ -4,3 +4,5 @@ Je veux pouvoir générer automatiquement l'emploi du temps d'une classe en fonc
 En tant que directeur d'études, je veux pouvoir exporter les emplois du temps au format PDF ou Excel
 
 Sprint 3 : Améliorations et personnalisation
+
+Joujou
