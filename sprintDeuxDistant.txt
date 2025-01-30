@@ -2,8 +2,12 @@ En tant que directeur, je veux pouvoir créer, modifier et supprimer des classes
 Je veux pouvoir inscrire des étudiants à des classes
 Je veux pouvoir générer automatiquement l'emploi du temps d'une classe en fonction des cours et des enseignants disponibles
 En tant que directeur d'études, je veux pouvoir exporter les emplois du temps au format PDF ou Excel
+<<<<<<< HEAD
 
 Sprint 3 : Améliorations et personnalisation
 
 Joujou
 En tant que directeur d'études, je veux pouvoir personnaliser l'affichage de l'emploi du temps( couleurs, format)
+=======
+Améliorations et personnalisation
+>>>>>>> 155a08add877c20c87d47b2521fece68ad8ba365
