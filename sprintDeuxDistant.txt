@@ -1,1 +1,2 @@
 En tant que directeur, je veux pouvoir créer, modifier et supprimer des classes(nom, niveau, spécialité)
+Je veux pouvoir inscrire des étudiants à des classes
